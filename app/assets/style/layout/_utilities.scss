@@ -1,0 +1,51 @@
+.mb8{
+    margin-bottom: $spacer *2;
+}
+.ml8{
+    margin-left: $spacer *2;
+}
+.pl8{
+    padding-left: $spacer *2;
+}
+.mr8{
+    margin-right: $spacer *2;
+}
+.mt8{
+    margin-top: $spacer *2;
+}
+
+.mb-26{
+    margin-bottom: 26px;
+}
+.py-13{
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+
+.px8{
+    padding-left: $spacer *2;
+    padding-right: $spacer *2;
+}
+
+.h-51{
+    height: 51px;
+}
+.aIcon{
+    width: 35.28px;
+    height: 38px;
+    border: 2px solid #198754;
+}
+.aIcon-noRight{
+    width: 35.28px;
+    height: 38px;
+    border-top: 2px solid #198754;
+    border-right: 2px solid #198754;
+    border-bottom: 2px solid #198754;
+}
+
+.w100{
+    width: 100%;
+}
+.text-sm{
+    font-size: 14px;
+}

@@ -1,0 +1,66 @@
+.admin{
+    .title{
+        margin: 32px;
+    }
+    .title-Admin{
+        span{
+            margin-left: 48px;
+        }
+    }
+    .tablePadding{
+        padding: 16px 32px 63px 32px;
+        table{
+            th{
+                span{
+                    font-size: 18px;
+                }
+            }
+           
+        }
+    }
+
+}
+
+.line{
+    margin-bottom: 24.5px;
+    margin-top: 24.5px;
+    border-bottom: 1px solid #CED4DA;
+}
+.pic{
+    width: 141px;
+    height: 141px;
+    object-fit: cover;
+}
+.fade2{
+    .title{
+        width: 100%;
+    }
+    .title-footer{
+        position: relative;
+        .control{
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+        .expand_more {
+            display: none;
+          }
+          .expand_less {
+            display: inline-block;
+          }
+          .collapsed .expand_more {
+            display: inline-block;
+          }
+          
+          .collapsed .expand_less {
+            display: none;
+          }
+
+    }
+      
+      
+}
+.fade3 .modal-footer{
+    padding-top: 0px;
+    padding-bottom: 99px;
+}
